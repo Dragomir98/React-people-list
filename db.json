@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "firstName": "ivan",
+      "lastName": "petrov",
+      "email": "ivpe@email.com",
+      "id": 6
+    },
+    {
+      "firstName": "Petar",
+      "lastName": "Kirov",
+      "email": "peki@email.com",
+      "id": 8
+    },
+    {
+      "firstName": "person",
+      "lastName": "lname",
+      "email": "email@email.com",
+      "id": 11
+    }
+  ]
+}
